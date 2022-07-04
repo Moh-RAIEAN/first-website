@@ -14,3 +14,8 @@ p{
     text-transform: uppercase;
     background-color: antiquewhite;
 }
+img{
+    width:100%;
+    height: auto;
+    display: block;
+}
