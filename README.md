@@ -1,5 +1,7 @@
+<div>
 <center>
-  <table border='1' style='border: 1px solid #ddd; border-collapse: collapse; max-width: 500px'>
+  <div style="max-width: 500px; margin:auto">
+  <table border='1' style='border: 1px solid #ddd; border-collapse: collapse;'>
     <tr>
       <th colspan='5'>
         <h3>Used Technologies</h3>
@@ -23,4 +25,6 @@
       </td>
     </tr>
   </table>
+  </div>
 </center>
+</div>
