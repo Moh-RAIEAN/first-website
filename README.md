@@ -1,4 +1,4 @@
-<div>
+<center>
   <table border='1' style='border: 1px solid #ddd; border-collapse: collapse; max-width: 500px'>
     <tr>
       <th colspan='5'>
@@ -23,4 +23,4 @@
       </td>
     </tr>
   </table>
-</div>
+</center>
