@@ -7,16 +7,13 @@
     </tr>
     <tr>
       <td>
-      <img src="./images/
-NodeJsLogo.svg" />
+      <img src="./images/NodeJsLogo.svg" />
       </td>
       <td>
-       <img src="./images/
-TypescriptLogo.svg"/>
+       <img src="./images/TypescriptLogo.svg" />
       </td>
       <td>
-        <img src="./images/
-ExpressJsLogo.svg"/>
+        <img src="./images/ExpressJsLogo.svg" />
       </td>
     </tr>
   </table>
