@@ -1,3 +1,4 @@
+Run the command `npm install` to install the dependencies.
 
   <div style="max-width: 500px;" align='center'>
   <table border='1' style='border: 1px solid #ddd; border-collapse: collapse;'>
