@@ -2,7 +2,7 @@
   <table border='1' style='border: 1px solid #ddd; border-collapse: collapse; max-width: 500px'>
     <tr>
       <th colspan='5'>
-        #used technologies
+        <h3>Used Technologies</h3>
       </th>
     </tr>
     <tr>
