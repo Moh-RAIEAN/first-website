@@ -1,6 +1,5 @@
-<div>
-<center>
-  <div style="max-width: 500px; margin:auto">
+
+  <div style="max-width: 500px;" align='center'>
   <table border='1' style='border: 1px solid #ddd; border-collapse: collapse;'>
     <tr>
       <th colspan='5'>
@@ -26,5 +25,3 @@
     </tr>
   </table>
   </div>
-</center>
-</div>
