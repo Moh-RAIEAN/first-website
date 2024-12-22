@@ -1,8 +1,8 @@
 <div>
   <table border='1' style='border: 1px solid #ddd; border-collapse: collapse; max-width: 500px'>
     <tr>
-      <th colspan='5' style='font-size: 30px; font-family: arial; text-transform: uppercase; color: #37474F'>
-        used technologies
+      <th colspan='5'>
+        #used technologies
       </th>
     </tr>
     <tr>
