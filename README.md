@@ -16,19 +16,19 @@ Install my-project with npm
     </tr>
     <tr>
       <td>
-       <img src="./images/TypescriptLogo.svg" alt="typescript logo"/>
+       <img src="./images/TypescriptLogo.svg" width="50" alt="typescript logo"/>
       </td>
       <td>
-      <img src="./images/NodeJsLogo.svg" alt="nodejs logo"/>
+      <img src="./images/NodeJsLogo.svg" width="50" alt="nodejs logo"/>
       </td>
       <td>
-        <img src="./images/ExpressJsLogo.svg" alt="espressjs logo"/>
+        <img src="./images/ExpressJsLogo.svg" width="50" alt="espressjs logo"/>
       </td>
       <td>
-        <img src="./images/mongoDBLogo1.svg" alt="mongodb logo" />
+        <img src="./images/mongoDBLogo1.svg" width="50" alt="mongodb logo" />
       </td>
       <td>
-        <img src="./images/mongooseLogo1.svg" alt="mongoose logo" />
+        <img src="./images/mongooseLogo1.svg" width="50" alt="mongoose logo" />
       </td>
     </tr>
   </table>
