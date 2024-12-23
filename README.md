@@ -1,6 +1,6 @@
 <div align="center">
   <table>
-    <tr><td><img src="./BlogLogo.svg" /></td></tr>
+    <tr><td><img src="./images/BlogLogo.svg" /></td></tr>
   </table>
 </div>
 
