@@ -28,6 +28,7 @@ The Blog App is a backend for a blogging platform where users can write, update,
     </tr>
   </table>
   </div>
+  
 ## Installation
 To install this server project into your local machine, first clone the repository from github
 ```bash
