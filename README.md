@@ -52,3 +52,9 @@ In your root directory, create a .env file and include env variables:-
   JWT_ACCESS_TOKEN_EXPIRES_IS=50d
   JWT_REFRESH_TOKEN_EXPIRES_IN=10d
 ```
+## ⚡ How to run?
+To run this application in development mode, run this command
+```bash
+  npm run start:dev
+```
+## 🚏 API endpoints
