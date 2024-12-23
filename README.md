@@ -1,7 +1,8 @@
 <div align="center">
-  <table>
-    <tr><td><img src="./images/BlogLogo.svg" /></td></tr>
-  </table>
+  <div>
+  <img src="./images/BlogLogo.svg" />
+  </div>
+  <h1 style="text-align:center">Blog App</h1>
 </div>
 
 Run the command `npm install` to install the dependencies.
