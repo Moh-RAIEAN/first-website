@@ -6,7 +6,7 @@
 
 # Blog Application Server
 The Blog App is a backend for a blogging platform where users can write, update, and delete their blogs. The system will have two roles: Admin and User. The Admin has special permissions to manage users and their blogs, while users can perform CRUD operations on their own blogs. The backend will include secure authentication, role-based access control, and a public API for viewing blogs with search, sort, and filter functionalities.
-## Used Technologies
+## 🔬 Used Technologies
 <div style="max-width: 500px;" align='center'>
   <table border='1' style='border: 1px solid #ddd; border-collapse: collapse;'>
     <tr>
@@ -29,7 +29,7 @@ The Blog App is a backend for a blogging platform where users can write, update,
   </table>
   </div>
   
-## Installation
+## 📥 Installation
 To install this server project into your local machine, first clone the repository from GitHub
 ```bash
   git clone https://github.com/Moh-RAIEAN/first-website/edit/main/README.md
@@ -40,6 +40,7 @@ Install install project dependencies with npm
   cd ./BlogApp
   npm i
 ```
+## ⚙ Configurations
 In your root directory, create a .env file and include env variables:-
 ```bash
   PORT=5000
