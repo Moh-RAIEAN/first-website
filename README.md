@@ -10,11 +10,6 @@ The Blog App is a backend for a blogging platform where users can write, update,
 <div style="max-width: 500px;" align='center'>
   <table border='1' style='border: 1px solid #ddd; border-collapse: collapse;'>
     <tr>
-      <th colspan='5'>
-        <h4>Used Technologies</h4>
-      </th>
-    </tr>
-    <tr>
       <td>
        <img src="./images/TypescriptLogo.svg" width="80" alt="typescript logo"/>
       </td>
