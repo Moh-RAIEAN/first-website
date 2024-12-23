@@ -3,7 +3,8 @@
   <img src="./images/BlogLogo.svg" />
   </div>
 </div>
-# Blog Application Server  
+
+# Blog Application Server
 Run the command `npm install` to install the dependencies.
 ## Installation
 
