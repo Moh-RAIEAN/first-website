@@ -28,9 +28,11 @@ The Blog App is a backend for a blogging platform where users can write, update,
     </tr>
   </table>
   </div>
-
 ## Installation
-Run the command `npm install` to install the dependencies.
+To install this server project into your local machine, first clone the repository from github
+```bash
+  git clone https://github.com/Moh-RAIEAN/first-website/edit/main/README.md
+```
 
 Install my-project with npm
 
