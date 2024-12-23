@@ -1,3 +1,9 @@
+<div align="center">
+  <table>
+    <tr><td><img src="./BlogLogo.svg" /></td></tr>
+  </table>
+</div>
+
 Run the command `npm install` to install the dependencies.
 ## Installation
 
