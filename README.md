@@ -8,7 +8,7 @@
 The Blog App is a backend for a blogging platform where users can write, update, and delete their blogs. The system will have two roles: Admin and User. The Admin has special permissions to manage users and their blogs, while users can perform CRUD operations on their own blogs. The backend will include secure authentication, role-based access control, and a public API for viewing blogs with search, sort, and filter functionalities.
 ## 🔬 Used Technologies
 <div style="max-width: 500px;" align='center'>
-  <table border='1' style='border: 1px solid #ddd; border-collapse: collapse;'>
+  <table  style='border: 1px solid #ddd; border-collapse: collapse;'>
     <tr>
       <td>
        <img src="./images/TypescriptLogo.svg" width="80" alt="typescript logo"/>
@@ -37,7 +37,7 @@ To install this server project into your local machine, first clone the reposito
 
 Install install project dependencies with npm
 ```bash
-  cd ./BlogApp
+  cd ./cloned/BlogApp
   npm i
 ```
 ## ⚙ Configurations
@@ -57,15 +57,23 @@ To run this application in development mode, run this command
 ```bash
   npm run start:dev
 ```
+To run this application in production mode, first build the application with this command
+```bash
+  npm run build
+```
+Start the server in production mode
+```bash
+  npm run start:prod
+```
 ## 🚏 API endpoints
 ### Public routes
-/api/auth/register (post)
-/api/auth/login (post)
-/api/blogs?search=technology&sortBy=createdAt&sortOrder=desc&filter=60b8f42f9c2a3c9b7cbd4f18 (get)
+Create a user:- /api/auth/register (post) <br/>
+Login a user:- /api/auth/login (post)<br/>
+Get all blogs:- /api/blogs?search=technology&sortBy=createdAt&sortOrder=desc&filter=60b8f42f9c2a3c9b7cbd4f18 (get)<br/>
 ### User routes
-/api/blogs (post)
-/api/blogs/:id (patch)
-/api/blogs/:id (delete)
+Create a blog:- /api/blogs (post)<br/>
+Update a blog:- /api/blogs/:id (patch)<br/>
+Delete a blog:- /api/blogs/:id (delete)<br/>
 ### Admin routes
-/api/admin/users/:userId/block (patch)
-/api/admin/blogs/:id (delete)
+Block a user:- /api/admin/users/:userId/block (patch)<br/>
+Delete a blog as admin:- /api/admin/blogs/:id (delete)<br/>
