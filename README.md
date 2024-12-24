@@ -58,3 +58,14 @@ To run this application in development mode, run this command
   npm run start:dev
 ```
 ## 🚏 API endpoints
+### Public routes
+/api/auth/register (post)
+/api/auth/login (post)
+/api/blogs?search=technology&sortBy=createdAt&sortOrder=desc&filter=60b8f42f9c2a3c9b7cbd4f18 (get)
+### User routes
+/api/blogs (post)
+/api/blogs/:id (patch)
+/api/blogs/:id (delete)
+### Admin routes
+/api/admin/users/:userId/block (patch)
+/api/admin/blogs/:id (delete)
