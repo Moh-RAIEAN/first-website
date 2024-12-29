@@ -11,7 +11,7 @@ Hi there! 👋,
 
 I’m Muh. Hasib Al Raiean, a passionate MERN stack developer who loves crafting efficient and scalable solutions to real-world problems. My expertise spans across multiple technologies, and I constantly strive to learn, innovate, and grow in the tech space..
 ## 🔧 Skills & Technologies
-<div>
+<div align="center">
   <table  style='border: 1px solid #ddd; border-collapse: collapse;'>
     <tr>
       <td>
